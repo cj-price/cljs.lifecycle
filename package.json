@@ -1,0 +1,8 @@
+{
+  "name": "cljs.lifecycle",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "shadow-cljs": "^3.3.6"
+  }
+}
